@@ -39,6 +39,9 @@ Prerequisites
 
   * Linux/macOS: XQuartz or native X11
   * Windows: e.g., Xming or VcXsrv, with `DISPLAY` environment variable set
+* Libraries & Sample Images
+  The required libraries (JAR dependencies) and sample images are hosted on Google Drive: [https://drive.google.com/drive/folders/](https://drive.google.com/drive/folders/)\<YOUR\_FOLDER\_ID>
+  To request access or if you have any issues, please contact: [your.email@domain.com](mailto:your.email@domain.com)
 
 ---
 
