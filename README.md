@@ -40,7 +40,7 @@ Prerequisites
   * Linux/macOS: XQuartz or native X11
   * Windows: e.g., Xming or VcXsrv, with `DISPLAY` environment variable set
 * Libraries & Sample Images
-  The required libraries (JAR dependencies) and sample images are hosted on Google Drive: [https://drive.google.com/drive/folders/](https://drive.google.com/drive/folders/)\<YOUR\_FOLDER\_ID>
+  The required libraries (JAR dependencies) and sample images are hosted on Google Drive.
   To request access or if you have any issues, please contact: [alali.413121@gmail.com](mailto:your.email@domain.com)
 
 ---
@@ -50,7 +50,7 @@ Installation
 Undockerized
 
 1. Clone the repo
-   git clone [https://github.com/your-org/filterapp.git](https://github.com/your-org/filterapp.git)
+   git clone
    cd filterapp
 2. Build
    mvn clean package
@@ -59,7 +59,7 @@ Undockerized
 Dockerized
 
 1. Clone the repo
-   git clone [https://github.com/your-org/filterapp.git](https://github.com/your-org/filterapp.git)
+   git clone
    cd filterapp
 2. Build Docker image
    docker build -t myteam/filterapp\:latest .
